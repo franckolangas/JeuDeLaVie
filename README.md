@@ -15,4 +15,4 @@ Ce projet est une simulation de l'évolution des cellules basée sur le **Jeu de
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/ton-nom-utilisateur/JeuDeLaVie.git
+   git clone https://github.com/franckolangas/JeuDeLaVie.git
